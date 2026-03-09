@@ -1,0 +1,21 @@
+running develop
+running egg_info
+creating torch_control.egg-info
+writing torch_control.egg-info/PKG-INFO
+writing dependency_links to torch_control.egg-info/dependency_links.txt
+writing entry points to torch_control.egg-info/entry_points.txt
+writing requirements to torch_control.egg-info/requires.txt
+writing top-level names to torch_control.egg-info/top_level.txt
+writing manifest file 'torch_control.egg-info/SOURCES.txt'
+reading manifest file 'torch_control.egg-info/SOURCES.txt'
+writing manifest file 'torch_control.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/pjh/Teamgrit2026/Mutron/install/torch_control/lib/python3.10/site-packages/torch-control.egg-link (link to .)
+
+Installed /home/pjh/Teamgrit2026/Mutron/build/torch_control
+running symlink_data
+creating /home/pjh/Teamgrit2026/Mutron/install/torch_control/share/ament_index
+creating /home/pjh/Teamgrit2026/Mutron/install/torch_control/share/ament_index/resource_index
+creating /home/pjh/Teamgrit2026/Mutron/install/torch_control/share/ament_index/resource_index/packages
+symbolically linking /home/pjh/Teamgrit2026/Mutron/build/torch_control/resource/torch_control -> /home/pjh/Teamgrit2026/Mutron/install/torch_control/share/ament_index/resource_index/packages
+symbolically linking /home/pjh/Teamgrit2026/Mutron/build/torch_control/package.xml -> /home/pjh/Teamgrit2026/Mutron/install/torch_control/share/torch_control
