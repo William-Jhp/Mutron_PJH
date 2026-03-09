@@ -1,3 +1,0 @@
-[console_scripts]
-torch_serial_node = torch_control.torch_node:main
-
