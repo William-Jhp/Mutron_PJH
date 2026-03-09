@@ -16,6 +16,6 @@ source install/setup.bash
 ros2 run torch_control torch_node
 ```
 
-#추가
-##아두이노 코드(pwm_serial_code)
+# 추가
+### 아두이노 코드(pwm_serial_code)
 시리얼 subscribe코드한테서 받아 랜덤하게 pwm조절해 led 플래쉬되는 코드
